@@ -1,4 +1,5 @@
 # weather_hw3200
+[![ci](https://github.com/QMSS-G5072-2026/weather_wang_hongyun/actions/workflows/ci.yml/badge.svg)](https://github.com/QMSS-G5072-2026/weather_wang_hongyun/actions/workflows/ci.yml)
 
 A Python package for converting, summarizing, and cleaning temperature data.
 
