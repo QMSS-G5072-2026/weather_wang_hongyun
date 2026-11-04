@@ -1,6 +1,6 @@
 [project]
 name = "weather_hw3200"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Python package for converting, summarizing, and cleaning temperature data."
 readme = "README.md"
 authors = [{ name = "Hongyun Wang", email = "hw3200@columbia.edu" }]
